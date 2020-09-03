@@ -1,5 +1,5 @@
 # Cognate_Identification
-This program uses Swadesh lists and the PHILOLOGICON algorithm by Ellison &amp;amp; Kirby (2006) to measure language distances.
+This program uses Swadesh lists and the PHILOLOGICON algorithm by Ellison & Kirby (2006) to measure language distances.
 
 
 ## What does the project do?
