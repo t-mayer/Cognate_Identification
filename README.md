@@ -3,7 +3,7 @@ This program uses Swadesh lists and the PHILOLOGICON algorithm by Ellison & Kirb
 
 
 ## What does the project do?
-It calculates the distance between 52 languages using Swadesh lists and the PHIOLOLOGICON algorithm by Ellison &amp;amp; Kirby (2006).
+It calculates the distance between 52 languages using Swadesh lists and the PHIOLOLOGICON algorithm by Ellison & Kirby (2006).
 First, intra-language distances are computed. Then, the probability matrices are ued to compute inter-language distances.
 
 The PHILOLOGICON algorithm involves several steps:
